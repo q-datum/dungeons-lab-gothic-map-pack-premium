@@ -1,0 +1,19 @@
+{
+  "dungeons-lab-gothic-map-pack-premium": {
+    "WelcomeDialog": {
+      "WindowTitle": "Welcome",
+      "Title": "Welcome to Dungeons LAB Gothic Map Pack Premium!",
+      "Text": "Thank you for choosing our Gothic Map Pack Premium plugin for Foundry VTT. By supporting us on Patreon, you help us continue developing innovative tools that make your virtual tabletop experience smoother and more immersive. As we continue to develop new premium plugins to enhance your Foundry VTT experience, your support becomes vital. Thank you for subscribing to our Patreon. Your contributions make a significant impact!",
+      "Disclaimer": "Disclaimer: ",
+      "DisclaimerText": "When you download and install other plugins using our plugin you agree to all licenses of these plugins.",
+      "Discord": "Visit our Discord",
+      "Disable": "Dont show again"
+    },
+    "SettingsMenu": {
+      "AlwaysShowWelcomeDialog": {
+        "Name": "Always show welcome dialog",
+        "Hint": "If enabled, the welcome dialog will be shown every time you start Foundry VTT."
+      }
+    }
+  }
+}

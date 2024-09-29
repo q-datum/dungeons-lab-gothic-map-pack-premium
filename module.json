@@ -1,0 +1,94 @@
+{
+  "id": "dungeons-lab-gothic-map-pack-premium",
+  "title": "DungeonsLAB Gothic Map Pack Premium",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "scripts": [
+    "dungeons-lab-gothic-map-pack-premium.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "ru",
+      "name": "Russian",
+      "path": "lang/ru.json"
+    },
+    {
+      "lang": "de",
+      "name": "German",
+      "path": "lang/de.json"
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "levels",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "wall-height",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "item-piles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "itemacro",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "smalltime",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Dungeons LAB",
+      "url": "https://www.patreon.com/Dungeons_LAB",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/Dungeons_LAB",
+  "systems": [
+    {
+      "id": "dnd5e",
+      "type": "system",
+      "compatibility": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "dungeons-lab-premium",
+      "label": "Dungeons LAB Premium",
+      "path": "packs/barovia-premium",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": "This map pack is inspired by the haunting and enigmatic atmosphere of \"Curse of Strahd,\" tailored for Dungeons and Dragons 5th Edition. Crafted with meticulous detail to enhance your gaming experience, this collection is intended solely for entertainment and personal use. All content is distributed freely, ensuring that every adventurer has access to the resources they need without any cost.\n\nWithin this pack, you'll find everything necessary to bring the land of Barovia to life:\n\n    Detailed Maps: Each map is carefully designed to reflect the eerie and mysterious charm of Barovia, from the foreboding walls of Castle Ravenloft to the desolate streets of Vallaki.\n    Loot Chests: Strategically placed throughout the maps, these chests contain diverse and thematic loot that can help or hinder players as they navigate the treacherous terrain.\n    Abundant Scripts and Tokens: Enhance your gameplay with a variety of scripts that bring dynamic elements to your sessions, and tokens that represent the myriad creatures and characters your players will encounter.\n\nThis project is born from a passion for both storytelling and the rich lore of D&amp;D. We hope it adds depth and excitement to your campaigns, transporting you and your players directly into the heart of darkness that is Barovia. Enjoy the journey, and may your path through the mists lead you to adventure!",
+  "manifest": "https://github.com/q-datum/dungeonslab-gothic-maps-pack/releases/download/release-latest/module.json",
+  "download": "https://github.com/q-datum/dungeonslab-gothic-maps-pack/releases/download/release-latest/dungeonslab-gothic-maps-pack.zip"
+}
